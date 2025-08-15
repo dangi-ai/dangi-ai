@@ -196,8 +196,8 @@
 </div>
 
 ### 🎯 **Technical Excellence**
-- **Deep Expertise:** 6+ years of specialized Java development experience
-- **Modern Stack:** Proficient in latest Spring Boot, cloud-native applications
+- **Deep Expertise:** 8+ years of specialized Java development experience
+- **Modern Stack:** Proficient in the latest Spring Boot, cloud-native applications
 - **Architecture Skills:** Proven track record in designing scalable microservices
 - **Performance Focus:** Optimizing applications for high-traffic enterprise environments
 
